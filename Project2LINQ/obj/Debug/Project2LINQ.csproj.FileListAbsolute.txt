@@ -1,0 +1,6 @@
+c:\users\steamaj\documents\visual studio 2017\Projects\Project2LINQ\Project2LINQ\obj\Debug\Project2LINQ.csprojResolveAssemblyReference.cache
+c:\users\steamaj\documents\visual studio 2017\Projects\Project2LINQ\Project2LINQ\bin\Debug\Project2LINQ.exe.config
+c:\users\steamaj\documents\visual studio 2017\Projects\Project2LINQ\Project2LINQ\bin\Debug\Project2LINQ.exe
+c:\users\steamaj\documents\visual studio 2017\Projects\Project2LINQ\Project2LINQ\bin\Debug\Project2LINQ.pdb
+c:\users\steamaj\documents\visual studio 2017\Projects\Project2LINQ\Project2LINQ\obj\Debug\Project2LINQ.exe
+c:\users\steamaj\documents\visual studio 2017\Projects\Project2LINQ\Project2LINQ\obj\Debug\Project2LINQ.pdb
